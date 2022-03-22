@@ -3,7 +3,7 @@
 
 
 
-  Repository  |         $~~~~~~~~~~~$       |      Issue    |       Contribution      |   Short Description |
+  Repository  |         &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;      |      Issue    |       Contribution      |   Short Description |
 ------------- | --------------| --------------| ----------------------- |  ------------------ |
 | <sub>[ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)</sub> | <sub> ⭐ 12.3k </sub>| <sub> [#1986](https://github.com/ChainSafe/web3.js/issues/1986)</sub> | <sub> Bug Report </sub> |  <sub>Version update broke some features. </sub>|<!------------------------------------------------------------------------------------------->
 | <sub>[nathantannar4/InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView)</sub> | <sub> ⭐ 884 </sub>|<sub> [#205](https://github.com/nathantannar4/InputBarAccessoryView/issues/205)</sub> | <sub>Bug Report  + <br/> Fix ( [PR #206](https://github.com/nathantannar4/InputBarAccessoryView/pull/206) ) </sub>| <sub>Autocomplete text had no dark mode support</sub>|<!------------------------------------------------------------------------------------------->
